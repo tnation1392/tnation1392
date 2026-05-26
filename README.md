@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tnation1392
-- 👀 I’m interested in ... learning coding and programming for use in bioinformatics
-- 🌱 I’m currently learning ... SQL, Python and R for analytical purposes
+- 👀 I’m interested in ... learning coding and programming for use in backend development and QA Automation testing
+- 🌱 I’m currently learning ... SQL, Python and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
