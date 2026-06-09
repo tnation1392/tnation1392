@@ -68,7 +68,7 @@ A backend task management API with a focus on test automation:
 
 A more advanced application incorporating database persistence and testing:
 
-- ✅ Application + database integration (`app.db`, `test.db`) 【2-03b63b】  
+- ✅ Application + database integration (`app.db`, `test.db`)  
 - ✅ Test suite for system-level behavior  
 - ✅ CI workflow integration  
 - ✅ Expands into more realistic system design  
