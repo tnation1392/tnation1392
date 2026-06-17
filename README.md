@@ -25,7 +25,7 @@ I have enjoyed learning to break down systems, identify edge cases, and build re
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, C#
+- **Languages:** Python, R, SQL, C#, Javascript
 - **Testing:** pytest, fixtures, parametrization, mocking
 - **Tools:** Git, GitHub Actions, VS Code
 - **Concepts:** Automation testing, debugging, backend systems
