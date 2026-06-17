@@ -79,8 +79,8 @@ A more advanced application incorporating database persistence and testing:
 
 ## 📚 Currently Learning
 
-- API automation testing (FastAPI, HTTP clients)
-- Advanced test design patterns
+-  Javascript for foundational use
+-  API automation testing (FastAPI, HTTP clients)
 - Building scalable automation frameworks
 
 ---
@@ -106,3 +106,4 @@ I'm open to:
 ## 📫 Contact
 
 - GitHub: https://github.com/tnation1392
+- Email: tnation0@gmail.com
