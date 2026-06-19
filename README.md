@@ -37,7 +37,7 @@ I have enjoyed learning to break down systems, identify edge cases, and build re
 ---
 
 ### 📝 Python Todo QA Project  
-👉 https://github.com/tnation1392/Python-Todo-Testing  
+👉 https://github.com/tnation1392/Project1-Python-Todo-Testing
 
 A CLI-based Todo app enhanced with a full QA automation suite:
 
