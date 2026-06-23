@@ -77,11 +77,26 @@ A more advanced application incorporating database persistence and testing:
 
 ---
 
+
+🔗 [Playwright Docs Lab]
+👉 https://github.com/tnation1392/playwright-docs-lab
+
+👉 A Python-based QA automation project built with Playwright and pytest to simulate real-world testing scenarios.
+
+🔍 Highlights
+- Built a Page Object Model (POM) structure for maintainable tests
+- Used role-based locators (get_by_role) for stable element selection
+- Implemented automated UI tests for navigation, multi-tab usage, and mobile emulation
+- Added API mocking (page.route) to create reliable and repeatable test conditions
+- Integrated GitHub Actions CI to run tests automatically
+  
+---
+
 ## 📚 Currently Learning
 
 -  Javascript for foundational use
 -  API automation testing (FastAPI, HTTP clients)
-- Building scalable automation frameworks
+-  Building scalable automation frameworks
 
 ---
 
