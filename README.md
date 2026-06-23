@@ -50,16 +50,17 @@ A CLI-based Todo app enhanced with a full QA automation suite:
 ---
 
 ### 🌐 Task API QA Project  
+
 👉 https://github.com/tnation1392/project2-task-api-project  
 
 A backend task management API with a focus on test automation:
 
-- ✅ Structured application with `app/` and `tests/` layers
-- ✅ API-focused testing using pytest  
-- ✅ Separation of business logic and routes  
-- ✅ Configuration for automated test execution  
+• ✅ Structured application with `app/` and `tests/` layers  
+• ✅ API-focused testing using pytest  
+• ✅ Separation of business logic and routes  
+• ✅ Input validation and clean architecture practices  
 
-👉 Demonstrates transition from CLI testing → **API testing**
+👉 Demonstrates transition from support-focused work → backend API & QA automation
 
 ---
 
