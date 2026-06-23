@@ -54,7 +54,7 @@ A CLI-based Todo app enhanced with a full QA automation suite:
 
 A backend task management API with a focus on test automation:
 
-- ✅ Structured application with `app/` and `tests/` layers 【1-a84aed】  
+- ✅ Structured application with `app/` and `tests/` layers
 - ✅ API-focused testing using pytest  
 - ✅ Separation of business logic and routes  
 - ✅ Configuration for automated test execution  
