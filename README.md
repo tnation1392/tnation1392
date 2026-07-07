@@ -49,20 +49,22 @@ A CLI-based Todo app enhanced with a full QA automation suite:
 
 ---
 
-### 🌐 Task API Project
-👉 https://github.com/tnation1392/project2-task-api-project
+### 🌐 Task API QA Automation Project
 
-Developed a database-backed task management API using FastAPI, SQLite, and SQLAlchemy while building a comprehensive QA automation test suite.
+Tech: FastAPI, SQLite, SQLAlchemy, Pytest, HTTPX, GitHub Actions, OpenAPI, Schemathesis
+Built a task management API to develop backend and QA automation skills.
 
-- ✅ REST API design and implementation
-- ✅ SQLAlchemy ORM and relational data modeling
-- ✅ Authentication and role-based authorization
-- ✅ Filtering, pagination, and workflow validation
-- ✅ Automated API testing with pytest and httpx
-- ✅ OpenAPI contract testing
-- ✅ GitHub Actions CI integration
+Highlights:
+Designed REST APIs for Users, Projects, and Tasks
+Migrated from in-memory storage to SQLite with SQLAlchemy ORM
+Implemented API key authentication and role-based authorization
+Added filtering, pagination, workflow validation, and audit timestamps
+Developed 40+ automated API tests using pytest and httpx
+Added OpenAPI contract validation
+Explored OpenAPI-driven fuzz testing with Schemathesis to automatically generate test cases from the API specification
 
-I refactored the application from in-memory storage to persistent database-backed architecture and updated the automated test suite to validate real-world API behavior.
+Key Learning:
+Gained experience testing database-backed APIs, validating business rules, troubleshooting integration issues, and learning contract-based API testing techniques.
 
 ---
 
