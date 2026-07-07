@@ -50,6 +50,7 @@ A CLI-based Todo app enhanced with a full QA automation suite:
 ---
 
 ### 🌐 Task API QA Automation Project
+👉 https://github.com/tnation1392/Project2-Task-API-Project
 
 Tech: FastAPI, SQLite, SQLAlchemy, Pytest, HTTPX, GitHub Actions, OpenAPI, Schemathesis
 Built a task management API to develop backend and QA automation skills.
@@ -64,7 +65,7 @@ Highlights:
 - ✅ Explored OpenAPI-driven fuzz testing with Schemathesis to automatically generate test cases from the API specification
 
 Key Learning:
-Gained experience testing database-backed APIs, validating business rules, troubleshooting integration issues, and learning contract-based API testing techniques.
+👉 Gained experience testing database-backed APIs, validating business rules, troubleshooting integration issues, and learning contract-based API testing techniques.
 
 ---
 
@@ -99,7 +100,8 @@ A more advanced application incorporating database persistence and testing:
 
 ## 📚 Currently Learning
 
--  Javascript for foundational use
+-  Continuous work on Python
+-  Understanding of testing theory
 -  API automation testing (FastAPI, HTTP clients)
 -  Building scalable automation frameworks
 
