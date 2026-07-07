@@ -25,10 +25,21 @@ I have enjoyed learning to break down systems, identify edge cases, and build re
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, R, SQL, C#, Javascript
-- **Testing:** pytest, fixtures, parametrization, mocking
-- **Tools:** Git, GitHub Actions, VS Code
-- **Concepts:** Automation testing, debugging, backend systems
+## 🛠 Tech Stack
+
+- **Languages:** Python, SQL, R, C#
+
+- **Backend & APIs:** FastAPI, REST APIs, SQLAlchemy, SQLite, Pydantic
+
+- **Testing:** pytest, pytest-asyncio, fixtures, parametrization, mocking, API automation, OpenAPI contract testing
+
+- **Tools:** Git, GitHub Actions, VS Code, Playwright
+
+- **CI/CD:** GitHub Actions, coverage reporting, automated quality gates
+
+- **Database:** SQLite, relational data modeling, ORM concepts
+
+- **Concepts:** Test automation, test theory, debugging, backend development, authentication & authorization, API validation, workflow testing
 
 ---
 
