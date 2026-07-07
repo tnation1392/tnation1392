@@ -25,8 +25,6 @@ I have enjoyed learning to break down systems, identify edge cases, and build re
 
 ## 🛠️ Tech Stack
 
-## 🛠 Tech Stack
-
 - **Languages:** Python, SQL, R, C#
 
 - **Backend & APIs:** FastAPI, REST APIs, SQLAlchemy, SQLite, Pydantic
