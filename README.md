@@ -55,13 +55,13 @@ Tech: FastAPI, SQLite, SQLAlchemy, Pytest, HTTPX, GitHub Actions, OpenAPI, Schem
 Built a task management API to develop backend and QA automation skills.
 
 Highlights:
-Designed REST APIs for Users, Projects, and Tasks
-Migrated from in-memory storage to SQLite with SQLAlchemy ORM
-Implemented API key authentication and role-based authorization
-Added filtering, pagination, workflow validation, and audit timestamps
-Developed 40+ automated API tests using pytest and httpx
-Added OpenAPI contract validation
-Explored OpenAPI-driven fuzz testing with Schemathesis to automatically generate test cases from the API specification
+- ✅ Designed REST APIs for Users, Projects, and Tasks
+- ✅ Migrated from in-memory storage to SQLite with SQLAlchemy ORM
+- ✅ Implemented API key authentication and role-based authorization
+- ✅ Added filtering, pagination, workflow validation, and audit timestamps
+- ✅ Developed 40+ automated API tests using pytest and httpx
+- ✅ Added OpenAPI contract validation
+- ✅ Explored OpenAPI-driven fuzz testing with Schemathesis to automatically generate test cases from the API specification
 
 Key Learning:
 Gained experience testing database-backed APIs, validating business rules, troubleshooting integration issues, and learning contract-based API testing techniques.
