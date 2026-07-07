@@ -72,6 +72,7 @@ Highlights:
 - ✅ Developed 40+ automated API tests using pytest and httpx
 - ✅ Added OpenAPI contract validation
 - ✅ Explored OpenAPI-driven fuzz testing with Schemathesis to automatically generate test cases from the API specification
+- ✅ Implemented database schema versioning and migrations using Alembic
 
 Key Learning:
 👉 Gained experience testing database-backed APIs, validating business rules, troubleshooting integration issues, and learning contract-based API testing techniques.
