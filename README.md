@@ -1,18 +1,18 @@
 ## 👋 Hi, I'm Todd (tnation1392)
 
-🎯 Aspiring QA Automation Engineer | Python | Testing-Focused Development
+🎯 Aspiring QA Software Tester | Python | Testing-Focused Development
 
 ---
 
 ## 💡 About Me
 
-I'm transitioning from a Software Support Specialist role into **QA Automation Engineering**, focusing on building strong foundations in test automation using Python.
+I'm transitioning from a Software Support Specialist role into **QA Software Testing**, focusing on building strong foundations in test automation using Python.
 
 I have enjoyed learning to break down systems, identify edge cases, and build reliable automated test suites across different layers of an application.
 
 ---
 
-## 🧪 QA & Automation Focus
+## 🧪 QA & Testing Focus
 
 - ✅ Unit, integration, and end-to-end testing
 - ✅ CLI automation using subprocess
