@@ -119,7 +119,7 @@ A more advanced application incorporating database persistence and testing:
 
 ## 🎯 Career Goal
 
-I'm actively working toward an **entry-level QA Automation role**, with a focus on:
+I'm actively working toward an **entry-level QA role**, with a focus on:
 
 - Automation frameworks
 - API testing
@@ -130,7 +130,7 @@ I'm actively working toward an **entry-level QA Automation role**, with a focus 
 ## 🤝 Open to Opportunities
 
 I'm open to:
-- QA Automation roles
+- QA roles
 - Collaboration on testing-focused projects
 
 ---
