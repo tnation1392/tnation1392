@@ -73,6 +73,7 @@ Highlights:
 - ✅ Added OpenAPI contract validation
 - ✅ Explored OpenAPI-driven fuzz testing with Schemathesis to automatically generate test cases from the API specification
 - ✅ Implemented database schema versioning and migrations using Alembic
+- ✅ Implemented simulated defect/bug tracking, documentation, and use of Agile process
 
 Key Learning:
 👉 Gained experience testing database-backed APIs, validating business rules, troubleshooting integration issues, and learning contract-based API testing techniques.
