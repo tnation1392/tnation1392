@@ -61,22 +61,37 @@ A CLI-based Todo app enhanced with a full QA automation suite:
 ### 🌐 Task API QA Automation Project
 👉 https://github.com/tnation1392/Project2-Task-API-Project
 
-Tech: FastAPI, SQLite, SQLAlchemy, Pytest, HTTPX, GitHub Actions, OpenAPI, Schemathesis
-Built a task management API to develop backend and QA automation skills.
+**Tech:** FastAPI, SQLite, SQLAlchemy, Pytest, HTTPX, GitHub Actions, OpenAPI, Schemathesis, Alembic
 
-Highlights:
-- ✅ Designed REST APIs for Users, Projects, and Tasks
-- ✅ Migrated from in-memory storage to SQLite with SQLAlchemy ORM
+Built a database-backed task management API to develop QA automation, API testing, and backend testing skills while practicing Agile workflows and defect management.
+
+**Highlights:**
+- ✅ Designed and tested REST APIs for Users, Projects, and Tasks
+- ✅ Migrated from in-memory storage to SQLite using SQLAlchemy ORM
 - ✅ Implemented API key authentication and role-based authorization
 - ✅ Added filtering, pagination, workflow validation, and audit timestamps
-- ✅ Developed 40+ automated API tests using pytest and httpx
-- ✅ Added OpenAPI contract validation
-- ✅ Explored OpenAPI-driven fuzz testing with Schemathesis to automatically generate test cases from the API specification
-- ✅ Implemented database schema versioning and migrations using Alembic
-- ✅ Implemented simulated defect/bug tracking, documentation, and use of Agile process
+- ✅ Developed 40+ automated API tests using Pytest and HTTPX
+- ✅ Implemented smoke, regression, and integration testing strategies
+- ✅ Added OpenAPI contract validation and schema testing
+- ✅ Explored OpenAPI-driven fuzz testing with Schemathesis
+- ✅ Implemented database schema versioning with Alembic migrations
+- ✅ Configured CI/CD pipelines with GitHub Actions
+- ✅ Simulated Jira-style Agile workflows using GitHub Issues, Projects, Labels, and Pull Requests
+- ✅ Created sample user stories, bug reports, test cases, and defect-tracking documentation
 
-Key Learning:
-👉 Gained experience testing database-backed APIs, validating business rules, troubleshooting integration issues, and learning contract-based API testing techniques.
+**QA Skills Demonstrated:**
+- REST API Testing
+- Test Case Design
+- Defect Tracking and Reporting
+- Regression Testing
+- Authentication & Authorization Testing
+- OpenAPI Contract Testing
+- CI/CD Validation
+- Agile/Scrum Workflows
+- Git Branching and Pull Request Processes
+
+**Key Learning Outcomes:**
+👉 Gained hands-on experience testing database-backed APIs, validating business rules, managing defects, executing automated test suites, troubleshooting integration issues, and understanding how Agile development, code reviews, and QA processes work together throughout the software development lifecycle.
 
 ---
 
