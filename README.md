@@ -109,6 +109,45 @@ A more advanced application incorporating database persistence and testing:
 
 ---
 
+## 🧪 SQL QA Data Validation Framework
+👉 https://github.com/tnation1392/sql-qa-data-validation-framework
+
+A portfolio project that simulates real-world database testing activities performed by QA testing. The project validates business-critical e-commerce data through SQL queries, structured test cases, and defect reporting.
+
+### Key Features
+
+- Designed a relational database for customers, products, orders, and payments
+- Created SQL validation scripts to verify business rules and data integrity
+- Developed QA test cases aligned with functional requirements
+- Identified and documented defects using professional bug reports
+- Implemented advanced SQL techniques including window functions and aggregations
+- Simulated production support troubleshooting scenarios using intentionally flawed test data
+
+### QA Testing Coverage
+
+✅ Order Total Validation
+
+✅ Duplicate Payment Detection
+
+✅ Missing Payment Detection
+
+✅ Negative Inventory Validation
+
+### Technologies Used
+
+- SQLite3
+- SQL
+- DBeaver
+- Git
+- GitHub
+
+### Skills Demonstrated
+
+`SQL` `Database Testing` `Data Validation` `QA Testing`
+`Defect Analysis` `Root Cause Analysis`
+`Relational Database Design` `Test Case Development`
+
+---
 
 ### 🔗 Playwright Docs Project
 👉 https://github.com/tnation1392/Python-Playwright-Project
