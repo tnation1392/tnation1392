@@ -12,53 +12,44 @@ I have enjoyed learning to break down systems, identify edge cases, and build re
 
 ---
 
-## 🧪 QA & Testing Focus
-
-- ✅ Unit, integration, and end-to-end testing
-- ✅ CLI automation using subprocess
-- ✅ API testing and validation
-- ✅ Mocking external dependencies
-- ✅ CI/CD pipelines with GitHub Actions
-- ✅ Debugging failures through test-driven development
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, SQL, R, C#
-
-- **Backend & APIs:** FastAPI, REST APIs, SQLAlchemy, SQLite, Pydantic
-
-- **Testing:** pytest, pytest-asyncio, fixtures, parametrization, mocking, API automation, OpenAPI contract testing
-
-- **Tools:** Git, GitHub Actions, VS Code, Playwright
-
-- **CI/CD:** GitHub Actions, coverage reporting, automated quality gates
-
-- **Database:** SQLite, relational data modeling, ORM concepts
-
-- **Concepts:** Test automation, test theory, debugging, backend development, authentication & authorization, API validation, workflow testing
-
----
-
 ## 🚀 Featured Projects
 
----
 
-### 📝 Python Todo QA Project  
+
+### 📝 Python Todo QA Project
+
 👉 https://github.com/tnation1392/Project1-Python-Todo-Testing
 
-A CLI-based Todo app enhanced with a full QA automation suite:
+**Tech:** Python, Pytest, Subprocess, GitHub Actions, File Persistence, CI/CD
 
-- ✅ End-to-end CLI testing using subprocess  
-- ✅ Unit and integration tests with pytest  
-- ✅ File persistence validation across runs  
-- ✅ Debugging and fixing real integration bugs  
-- ✅ CI pipeline with GitHub Actions  
+Built a command-line Todo application and developed a comprehensive automated testing suite to validate functionality, persistence, and user workflows. The project focuses on foundational QA concepts, automated testing practices, and test-driven problem solving.
+
+**Highlights:**
+- ✅ Developed a CLI-based task management application
+- ✅ Created end-to-end automated tests using subprocess integration
+- ✅ Implemented unit and integration testing with pytest
+- ✅ Validated file persistence and data integrity across sessions
+- ✅ Investigated and resolved real integration defects
+- ✅ Configured automated test execution through GitHub Actions
+- ✅ Practiced test-driven debugging and verification techniques
+
+**QA Skills Demonstrated:**
+- Unit Testing
+- Integration Testing
+- End-to-End Testing
+- Test Automation
+- Test Case Design
+- Defect Investigation
+- Debugging
+- CI/CD Validation
+
+**Key Learning Outcomes:**
+👉 Gained hands-on experience creating automated test suites, validating application workflows, troubleshooting failures, and understanding how different layers of testing contribute to software quality.
 
 ---
 
 ### 🌐 Task API QA Automation Project
+
 👉 https://github.com/tnation1392/Project2-Task-API-Project
 
 **Tech:** FastAPI, SQLite, SQLAlchemy, Pytest, HTTPX, GitHub Actions, OpenAPI, Schemathesis, Alembic
@@ -76,91 +67,122 @@ Built a database-backed task management API to develop QA automation, API testin
 - ✅ Explored OpenAPI-driven fuzz testing with Schemathesis
 - ✅ Implemented database schema versioning with Alembic migrations
 - ✅ Configured CI/CD pipelines with GitHub Actions
-- ✅ Simulated Jira-style Agile workflows using GitHub Issues, Projects, Labels, and Pull Requests
+- ✅ Simulated Agile workflows using GitHub Issues, Projects, Labels, and Pull Requests
 - ✅ Created sample user stories, bug reports, test cases, and defect-tracking documentation
 
 **QA Skills Demonstrated:**
 - REST API Testing
 - Test Case Design
-- Defect Tracking and Reporting
+- Defect Tracking
 - Regression Testing
-- Authentication & Authorization Testing
+- Authentication Testing
+- Authorization Testing
 - OpenAPI Contract Testing
 - CI/CD Validation
-- Agile/Scrum Workflows
-- Git Branching and Pull Request Processes
+- Agile/Scrum Methodologies
 
 **Key Learning Outcomes:**
-👉 Gained hands-on experience testing database-backed APIs, validating business rules, managing defects, executing automated test suites, troubleshooting integration issues, and understanding how Agile development, code reviews, and QA processes work together throughout the software development lifecycle.
+👉 Gained hands-on experience testing database-backed APIs, validating business rules, managing defects, executing automated test suites, troubleshooting integration issues, and understanding how Agile development and QA processes work together throughout the software development lifecycle.
 
 ---
 
-### 🏢 OMS (Order Management System) Project  
-👉 https://github.com/tnation1392/project3-OMS  
+### 🧪 SQL QA Data Validation Framework
 
-A more advanced application incorporating database persistence and testing:
-
-- ✅ Application + database integration (`app.db`, `test.db`)  
-- ✅ Test suite for system-level behavior  
-- ✅ CI workflow integration  
-- ✅ Expands into more realistic system design  
-
-👉 Demonstrates testing of **stateful systems and data persistence**
-
----
-
-## 🧪 SQL QA Data Validation Framework
 👉 https://github.com/tnation1392/sql-qa-data-validation-framework
 
-A portfolio project that simulates real-world database testing activities performed by QA testing. The project validates business-critical e-commerce data through SQL queries, structured test cases, and defect reporting.
+**Tech:** SQLite, SQL, DBeaver, Git, GitHub
 
-### Key Features
+Built a QA-focused data validation framework that simulates real-world database testing activities performed by QA Engineers. The project uses an e-commerce database to validate business rules, identify data quality issues, and document defects through structured test cases and SQL validation scripts.
 
-- Designed a relational database for customers, products, orders, and payments
-- Created SQL validation scripts to verify business rules and data integrity
-- Developed QA test cases aligned with functional requirements
-- Identified and documented defects using professional bug reports
-- Implemented advanced SQL techniques including window functions and aggregations
-- Simulated production support troubleshooting scenarios using intentionally flawed test data
+**Highlights:**
+- ✅ Designed a relational database schema for customers, products, orders, payments, and order items
+- ✅ Created realistic test data containing valid and intentionally defective records
+- ✅ Developed SQL validation scripts to verify business rules and data integrity
+- ✅ Implemented order reconciliation and financial validation checks
+- ✅ Detected duplicate payments, missing payments, and inventory inconsistencies
+- ✅ Created QA test cases aligned with business requirements
+- ✅ Produced professional bug reports with severity and root cause analysis
+- ✅ Utilized joins, aggregations, subqueries, and window functions
+- ✅ Simulated production support troubleshooting scenarios
 
-### QA Testing Coverage
+**QA Skills Demonstrated:**
+- Database Testing
+- SQL Data Validation
+- Test Case Design
+- Defect Identification
+- Defect Reporting
+- Root Cause Analysis
+- Business Rule Validation
+- Data Integrity Testing
+- Production Support Troubleshooting
 
-✅ Order Total Validation
-
-✅ Duplicate Payment Detection
-
-✅ Missing Payment Detection
-
-✅ Negative Inventory Validation
-
-### Technologies Used
-
-- SQLite3
-- SQL
-- DBeaver
-- Git
-- GitHub
-
-### Skills Demonstrated
-
-`SQL` `Database Testing` `Data Validation` `QA Testing`
-`Defect Analysis` `Root Cause Analysis`
-`Relational Database Design` `Test Case Development`
+**Key Learning Outcomes:**
+👉 Gained hands-on experience performing database validation, identifying data integrity issues, designing SQL-based QA checks, documenting defects, and applying QA methodologies to business-critical data workflows.
 
 ---
 
-### 🔗 Playwright Docs Project
+### 🔗 Playwright QA Automation Project
+
 👉 https://github.com/tnation1392/Python-Playwright-Project
 
-👉 A Python-based QA automation project built with Playwright and pytest to simulate real-world testing scenarios.
+**Tech:** Python, Playwright, Pytest, GitHub Actions
 
-🔍 Highlights
-- Built a Page Object Model (POM) structure for maintainable tests
-- Used role-based locators (get_by_role) for stable element selection
-- Implemented automated UI tests for navigation, multi-tab usage, and mobile emulation
-- Added API mocking (page.route) to create reliable and repeatable test conditions
-- Integrated GitHub Actions CI to run tests automatically
-  
+Built a UI automation framework using Playwright and pytest to simulate modern web application testing practices and improve browser automation skills.
+
+**Highlights:**
+- ✅ Implemented Page Object Model (POM) architecture
+- ✅ Created maintainable and reusable automation components
+- ✅ Utilized role-based locators for stable element identification
+- ✅ Automated navigation and workflow testing scenarios
+- ✅ Performed multi-tab and browser context validation
+- ✅ Tested responsive layouts using mobile emulation
+- ✅ Implemented API mocking for predictable test execution
+- ✅ Integrated automated test execution with GitHub Actions
+
+**QA Skills Demonstrated:**
+- UI Automation
+- Browser Testing
+- Playwright
+- Page Object Model
+- Test Framework Design
+- Responsive Testing
+- API Mocking
+- CI/CD Validation
+
+**Key Learning Outcomes:**
+👉 Strengthened skills in browser automation, UI validation, automation framework organization, locator strategy selection, and maintaining reliable automated tests within CI pipelines.
+
+---
+
+### 🏢 OMS (Order Management System) Project
+
+👉 https://github.com/tnation1392/project3-OMS
+
+**Tech:** Python, SQLite, Pytest, GitHub Actions
+
+Built a more complete order management application to practice testing stateful systems, database persistence, and application integration scenarios commonly encountered in enterprise environments.
+
+**Highlights:**
+- ✅ Implemented persistent database storage using SQLite
+- ✅ Maintained separate production and test databases
+- ✅ Created automated tests for application workflows
+- ✅ Validated business logic and system behavior across components
+- ✅ Tested data persistence and state management
+- ✅ Integrated automated testing into CI workflows
+- ✅ Expanded testing focus from isolated functions to complete systems
+
+**QA Skills Demonstrated:**
+- System Testing
+- Integration Testing
+- Database Testing
+- Persistence Validation
+- Workflow Testing
+- Test Automation
+- Defect Investigation
+- Continuous Integration
+
+**Key Learning Outcomes:**
+👉 Developed experience testing interconnected systems, validating long-running application state, verifying database interactions, and understanding challenges associated with larger enterprise-style applications.
 ---
 
 ## 📚 Currently Learning
