@@ -111,7 +111,7 @@ A more advanced application incorporating database persistence and testing:
 
 
 ### 🔗 Playwright Docs Project
-👉 https://github.com/tnation1392/playwright-docs-lab
+👉 https://github.com/tnation1392/Python-Playwright-Project
 
 👉 A Python-based QA automation project built with Playwright and pytest to simulate real-world testing scenarios.
 
