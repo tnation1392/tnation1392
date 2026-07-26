@@ -1,6 +1,6 @@
 # Hi, I'm Todd Nason 👋
 
-## QA Automation Engineer in Training | Software Support Specialist
+## Software Support Specialist | Learning QA to Transition
 
 I'm a Software Support Specialist learning about QA Testing and Automation with a focus on Python, API Testing, UI Automation, SQL Validation, and automated test framework development.
 
